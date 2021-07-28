@@ -118,8 +118,8 @@ def main():
     costs = 0
     for i in range(len(data_price['Performer'])):
         costs += work_time[i] * data_price.loc[i]['Rate']
-        profit = income - costs
-        profitability = (profit * 100) / income
+    profit = income - costs
+    profitability = (profit * 100) / income
 
 
 
