@@ -1,3 +1,4 @@
+#-*- coding: utf-8 -*-
 from datetime import date
 from numpy.lib.function_base import average
 import pandas as pd
