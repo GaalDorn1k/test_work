@@ -1,0 +1,7 @@
+README.txt
+setup.py
+test2.egg-info/PKG-INFO
+test2.egg-info/SOURCES.txt
+test2.egg-info/dependency_links.txt
+test2.egg-info/entry_points.txt
+test2.egg-info/top_level.txt
